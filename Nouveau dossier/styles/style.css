@@ -1,0 +1,20 @@
+p
+{
+color: red;
+}
+p
+{
+font-size: 50px; /* Paragraphes de 14 pixels */
+}
+.imageflottante
+{
+float: left;
+}
+.dessous
+{
+clear: both;
+}
+body /* On travaille sur la balise body, donc sur TOUTE la page */
+{
+
+}
