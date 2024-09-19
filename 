@@ -1,0 +1,44 @@
+[33mcommit 728266e4baef120d2bc6a76e8db7c3359b93443f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Arsène <arsene.panta@yahoo.fr>
+Date:   Thu Sep 19 18:40:01 2024 +0200
+
+    Ajout d'une copie volailles
+
+[33mcommit c7cc0a771a118c5d8384fe55b87b0b620ad0cc55[m
+Author: arsenepanta <arsene.panta@yahoo.fr>
+Date:   Mon Oct 2 16:49:38 2017 +0100
+
+    mon deuxieme commit
+
+[33mcommit d0f6f6c0977250c661f84782af32f254648c5b93[m
+Author: arsenepanta <arsene.panta@yahoo.fr>
+Date:   Mon Sep 18 14:39:12 2017 +0100
+
+    mon deuxieme commit
+
+[33mcommit 2d3df500fdf7f7de0b25d12195a71e98c5ce341e[m
+Author: Pernes Panta <pernes06@web.de>
+Date:   Sun Sep 3 22:01:24 2017 +0200
+
+    template arialogic
+
+[33mcommit 5c8337714eb9945ddbe75e9ce207fbc6ee0d9745[m
+Merge: 445c70a e7951e2
+Author: Pernes Panta <pernes06@web.de>
+Date:   Sun Sep 3 00:19:28 2017 +0200
+
+    Merge branch 'master' of https://github.com/arsenepanta/agro
+    
+    good
+
+[33mcommit e7951e231c8b9954cd7a5b1e33d5c6e0a0a01666[m
+Author: arsenepanta <arsene.panta@yahoo.fr>
+Date:   Sat Sep 2 23:14:02 2017 +0100
+
+    premier commit
+
+[33mcommit 445c70a4339ef4205b9c2f4ac9dab72df8b41b92[m
+Author: Pernes Panta <pernes06@web.de>
+Date:   Sun Sep 3 00:05:58 2017 +0200
+
+    test commit
